@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashrafi Iqbal
+- 👋 I’m Ashrafi Iqbal, a software engineer from Hyderabad, India.
 - 👀 I’m interested in Learing computer languages, coding algorithms and teaching whatever I am good at.
 - 🌱 I’m currently learning Frontend technologies
 - 💞️ I’m looking to collaborate and develope java based services.
