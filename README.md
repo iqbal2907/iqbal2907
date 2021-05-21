@@ -7,7 +7,7 @@
      alt="linkedIn"
      width="20" height="20"
      />
-</a> <a href="iqbal2907@gmail.com">
+</a> <a href="mailto:iqbal2907@gmail.com">
 <img src="https://user-images.githubusercontent.com/7344900/119193123-c81ee880-ba9e-11eb-9f6b-3bb3106a1a52.png"
      alt="gmail"
      width="35" height="20"
